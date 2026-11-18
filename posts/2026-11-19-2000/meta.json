@@ -1,0 +1,15 @@
+{
+  "data": "2026-11-19",
+  "horario": "20:00",
+  "timezone": "America/Sao_Paulo",
+  "formato": "carrossel",
+  "slides": 3,
+  "slug": "a-ligacao-de-todo-dia",
+  "titulo": "A ligação de todo dia",
+  "origem": "agenda",
+  "alt": [
+    "Meme em dois quadros com o título \"A ligação de todo dia\": de um lado, o cliente no telefone grita \"Vocês estão abertos?!\"; do outro, o Perfil da Empresa no Google mostra \"Horário de 2023\".",
+    "Se o horário no Google está errado, a pessoa liga. Ou pior: nem liga e vai no vizinho.",
+    "Fundo verde: abre o seu perfil e confere o horário de hoje. Segunda tem post sobre o expediente na Black Friday."
+  ]
+}

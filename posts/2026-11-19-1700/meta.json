@@ -1,0 +1,17 @@
+{
+  "data": "2026-11-19",
+  "horario": "17:00",
+  "timezone": "America/Sao_Paulo",
+  "formato": "carrossel",
+  "slides": 5,
+  "slug": "o-whatsapp-esta-na-primeira-tela",
+  "titulo": "O WhatsApp está na primeira tela?",
+  "origem": "agenda",
+  "alt": [
+    "Ícone de celular, o título \"O WhatsApp está na primeira tela?\" e a frase \"Se precisa rolar para achar, para muita gente já era.\"",
+    "O teste em três passos: abre o site no celular com uma mão, olha se o botão de conversa aparece logo e toca nele para ver se abre o WhatsApp certo.",
+    "O que costuma esconder o contato: formulário longo, botão só no rodapé, link que não abre o WhatsApp e número desatualizado.",
+    "O básico que funciona: botão visível já no começo, um toque abre a conversa e mensagem inicial simples.",
+    "Fundo verde: manda o endereço do site no WhatsApp (17) 99110-6278 que a gente diz se o cliente acha o contato de primeira."
+  ]
+}

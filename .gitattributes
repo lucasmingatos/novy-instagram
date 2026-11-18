@@ -1,0 +1,4 @@
+# Fim de linha LF; imagens binárias
+* text=auto eol=lf
+*.png binary
+*.jpg binary
