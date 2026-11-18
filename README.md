@@ -59,8 +59,8 @@ pasta no mesmo horário.
 
 ## Regras
 
-- Publique só pastas `pronto`. Não reescreva legenda, não acrescente hashtag, emoji, preço nem
-  marcação de perfil, e não gere arte para posts de outros horários.
+- Publique só pastas `pronto`. Não reescreva a legenda (nem para tirar ou pôr hashtag ou emoji), não
+  acrescente preço nem marcação de perfil e não gere arte para posts de outros horários.
 - Imagem que falta ou não abre, ou pasta incompleta: não publique e avise o Lucas.
 - Post de um horário que já passou e não foi publicado: não publique sozinha, pergunte ao Lucas.
 - Mexa só em `status.txt` e `publicado.json` das pastas publicadas (e na pasta das 09h, quando

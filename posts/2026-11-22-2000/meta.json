@@ -1,0 +1,15 @@
+{
+  "data": "2026-11-22",
+  "horario": "20:00",
+  "timezone": "America/Sao_Paulo",
+  "formato": "carrossel",
+  "slides": 3,
+  "slug": "paguei-o-anuncio",
+  "titulo": "Paguei o anúncio",
+  "origem": "agenda",
+  "alt": [
+    "Meme expectativa e realidade, título \"Paguei o anúncio\". Expectativa: o telefone tocando sem parar. Realidade: o site demora e o WhatsApp está offline.",
+    "Anúncio só funciona se a página abrir rápido e alguém responder. Sem isso, o clique não vira conversa.",
+    "Fundo verde: antes de ligar o anúncio, confere o site no celular e o WhatsApp. Se quiser, manda os dois no WhatsApp (17) 99110-6278."
+  ]
+}

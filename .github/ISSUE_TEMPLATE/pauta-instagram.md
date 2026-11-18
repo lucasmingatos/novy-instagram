@@ -7,8 +7,8 @@ labels: ["pauta-instagram"]
 
 <!--
 Preencha todos os campos. Campo que não se aplica: escreva "não se aplica".
-Nunca entra: preço (nem "a partir de"), emoji nas artes, promessa de resultado ou de aparecer em IA,
-número sem fonte, robô ou IA que atende cliente, marcação de perfil, foto de pessoa real,
+Nunca entra: preço (nem "a partir de"), emoji nas artes (na legenda pode, com moderação), promessa de resultado ou de aparecer em IA,
+número sem fonte, robô ou IA que atende cliente, marcação de perfil, foto de lead ou de cliente,
 dados de leads ou de clientes da prospecção.
 -->
 
